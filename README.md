@@ -17,6 +17,7 @@ The Monthly Budget Management App is designed to help you manage your finances b
 
 ## Future Features
 - Easy option to delete data through the program.
+- Provide a downloadable executable file for easy access and use.
 
 ## How to Use
 1. Launch the application.
